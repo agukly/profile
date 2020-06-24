@@ -1,12 +1,12 @@
-#PROFILE
+# PROFILE
 Simple one page project to help out to find out about the author.
 
-##Getting Started
+## Getting Started
 
-###Installing
+### Installing
 Clone the project to your local machine and enjoy
 
-##Built With
+## Built With
 
 - HTML
 - CSS
